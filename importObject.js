@@ -1,0 +1,1 @@
+const myobject = require("./exportObject");
